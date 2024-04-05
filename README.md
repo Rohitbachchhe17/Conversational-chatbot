@@ -1,4 +1,4 @@
-# Conversational-chatbot
+# Conversational AI chatbot
 A conversational AI chatbot is a computer program designed to simulate conversation with human users, typically through text or speech interfaces. These chatbots utilize various technologies such as natural language processing (NLP), machine learning, and sometimes even artificial intelligence (AI) to understand user inputs and generate appropriate responses.
 
 The primary goal of a conversational AI chatbot is to engage users in meaningful and helpful conversations, providing them with relevant information, assistance, or entertainment. They can be deployed in a wide range of applications, including customer service, virtual assistants, educational tools, and more.
